@@ -91,7 +91,7 @@
 	}
 	function handleKeyup() {
 		try {
-			rgxPattern = new RegExp('^'+$('#user-input').val()+'$');
+			rgxPattern = new RegExp('^(?:'+$('#user-input').val()+')$');
 		} catch (e) {
 			return;
 		}
