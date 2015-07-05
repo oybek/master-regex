@@ -1,0 +1,15 @@
+
+{
+	"good" : [
+		"fortification",
+		"google",
+		"satisfy",
+		"illumination"
+	],
+	"bad" : [
+		"sacred",
+		"jump",
+		"keyboard"
+	]
+}
+
