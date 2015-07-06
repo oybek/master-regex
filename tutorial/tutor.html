@@ -1,0 +1,41 @@
+
+<html>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="scripts.js"></script>
+	<body>
+		<div class="main-block">
+			<h2 id='head' style="text-align: center"></h2>
+			<div id='lecture' class='lecture-block'>
+			</div>
+
+			<div id='training-block'>
+				<div class='block'>
+					<span>^</span>
+					<input type='text' id='user-input' autofocus/>
+					<span>$</span>
+				</div>
+
+				<hr noshade>
+				<div id='good-block' class='block'>
+				</div>
+
+				<hr noshade>
+				<div id='bad-block' class='block'>
+				</div>
+
+				<hr noshade>
+				<div class='block'>
+					<span class='header'>Regex power: </span>
+					<span id='rgx-pow'>0</span>
+				</div>
+
+				<div class='block'>
+					<button id='bttn' type='button' class="buttonoff">Ahead</button>
+					<button id='n' type='button' class="buttonon" style="float: left">Back</button>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
+

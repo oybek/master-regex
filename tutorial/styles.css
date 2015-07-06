@@ -1,0 +1,65 @@
+body {
+	background-color:#002b36;
+	color: #839496;
+	font-family:Ubuntu Mono,Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace;
+}
+input {
+	border: 0px;
+	background-color:#073642;
+	text-align: left;
+	color: #839496;
+	font-family:Ubuntu Mono,Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace;
+    width: 93%;
+}
+.buttonon {
+	border: none;
+	font-family:Ubuntu Mono,Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace;
+	background-color: #839496;
+	font-weight: bold;
+	color: #002b36;
+	float: right;
+}
+.buttonoff {
+	border: none;
+	font-family:Ubuntu Mono,Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace;
+	background-color: #002b36;
+	font-weight: bold;
+	color: #002b36;
+	float: right;
+}
+.main-block {
+	width: 400px;
+	display: table;
+	margin: 0 auto;
+}
+.lecture-block {
+	text-indent: 30px;
+	text-align: justify;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+.block {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.header {
+	color: #93a1a1;
+	font-weight: bold;
+}
+.normal {
+	background-color:#002b36;
+	color: #839496;
+	font-family:Ubuntu Mono,Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace;
+}
+.good-highlight {
+	background-color:#002b36;
+	font-weight: bold;
+	color: #859900;
+	font-family:Ubuntu Mono,Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace;
+}
+.bad-highlight {
+	background-color:#002b36;
+	font-weight: bold;
+	color: #dc322f;
+	font-family:Ubuntu Mono,Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace;
+}
