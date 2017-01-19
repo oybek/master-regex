@@ -1,14 +1,14 @@
 {
 	"good" : [
-		"fortification",
-		"google",
-		"satisfy",
-		"illumination"
+		"john.smith@box.com",
+		"dr.brown@office.md.org",
+		"terminator@genesis.edu",
+		"agent_smith@matrix.vr"
 	],
 	"bad" : [
-		"sacred",
-		"jump",
-		"keyboard"
+		"^^^hello@gmail.com",
+		"hello123,@sky.org",
+		"fill_the_fire@hello,com"
 	]
 }
 
